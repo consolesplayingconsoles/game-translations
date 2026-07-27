@@ -4,9 +4,9 @@ Catalan patch for the Dreamcast game *Boku Doraemon* (Japan).
 
 ## Download
 
-**Latest release:** [Boku_Doraemon_Japan_T-Cat_v0.5-Beta](https://github.com/consolesplayingconsoles/game-translations/releases/tag/boku-doraemon-japan-t-cat-v0.5-beta)
+**Latest release:** [Boku_Doraemon_Japan_T-Cat_v0.6-Beta](https://github.com/consolesplayingconsoles/game-translations/releases/tag/boku-doraemon-japan-t-cat-v0.6-beta)
 
-Patch file: [`Boku_Doraemon_Japan_T-Cat_v0.5-Beta.dcp`](https://github.com/consolesplayingconsoles/game-translations/releases/download/boku-doraemon-japan-t-cat-v0.5-beta/Boku_Doraemon_Japan_T-Cat_v0.5-Beta.dcp)
+Patch file: [`Boku_Doraemon_Japan_T-Cat_v0.6-Beta.dcp`](https://github.com/consolesplayingconsoles/game-translations/releases/download/boku-doraemon-japan-t-cat-v0.6-beta/Boku_Doraemon_Japan_T-Cat_v0.6-Beta.dcp)
 
 Releases in this monorepo are namespaced per game, so the tag carries the game name (`boku-doraemon-japan-...`), not just a version.
 
