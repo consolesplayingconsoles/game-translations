@@ -2,6 +2,8 @@
 
 Catalan patch for the Dreamcast game *Boku Doraemon* (Japan).
 
+![Dialogue in Catalan](dialog_1.png) ![Dialogue in Catalan](dialog_2.png) ![Casquet volador](casquet.png)
+
 ## Download
 
 **Latest release:** [Boku_Doraemon_Japan_T-Cat_v0.6-Beta](https://github.com/consolesplayingconsoles/game-translations/releases/tag/boku-doraemon-japan-t-cat-v0.6-beta)
