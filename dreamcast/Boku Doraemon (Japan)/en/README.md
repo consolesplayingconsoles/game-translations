@@ -1,14 +1,14 @@
-# Boku Doraemon (Japan): Catalan
+# Boku Doraemon (Japan): English
 
-Catalan patch for the Dreamcast game *Boku Doraemon* (Japan).
+English patch for the Dreamcast game *Boku Doraemon* (Japan).
 
-![Title screen in Catalan](title.png) ![Dialogue in Catalan](dialog_1.png) ![Dialogue in Catalan](dialog_2.png) ![Casquet volador](casquet.png)
+![Title screen in English](boku_doraemon_title.png) ![Dialogue in English](boku_doraemon_1.png) ![Dialogue in English](boku_doraemon_2.png) ![Minigame instructions in English](boku_doraemon_3.png)
 
 ## Download
 
-**Latest release:** [Boku Doraemon (Japan) [T-Ca by cpc v1.0]](https://github.com/consolesplayingconsoles/game-translations/releases/tag/boku-doraemon-japan-v1.0)
+**Latest release:** [Boku Doraemon (Japan) [T-En by cpc v1.0]](https://github.com/consolesplayingconsoles/game-translations/releases/tag/boku-doraemon-japan-v1.0)
 
-Patch file: [`Boku Doraemon (Japan) [T-Ca by cpc v1.0].dcp`](https://github.com/consolesplayingconsoles/game-translations/releases/download/boku-doraemon-japan-v1.0/Boku.Doraemon.Japan.T-Ca.by.cpc.v1.0.dcp)
+Patch file: [`Boku Doraemon (Japan) [T-En by cpc v1.0].dcp`](https://github.com/consolesplayingconsoles/game-translations/releases/download/boku-doraemon-japan-v1.0/Boku.Doraemon.Japan.T-En.by.cpc.v1.0.dcp)
 
 Releases in this monorepo are namespaced per game, so the tag carries the game name (`boku-doraemon-japan-...`), not just a version.
 
@@ -25,8 +25,6 @@ You will need a GDI image of the original Japanese game with MD5 *58f3df741685a1
 5. Pick an output folder and format.
 6. Click **Apply Patch**.
 
-If you patched a beta, apply v1.0 to your original image again rather than on top of the beta.
-
 ## Known issues
 
 - **Map labels.** The labels on the map screen are still in Japanese.
@@ -36,4 +34,4 @@ Neither affects gameplay.
 
 ## Feedback
 
-Feedback from faster players than me is very welcome. Found a bug, a typo, or untranslated text? [Open an issue](https://github.com/consolesplayingconsoles/game-translations/issues/new). Note the scene or menu where it happens (a screenshot helps), and mention that it is the Catalan Boku Doraemon patch.
+Feedback from faster players than me is very welcome. Found a bug, a typo, or untranslated text? [Open an issue](https://github.com/consolesplayingconsoles/game-translations/issues/new). Note the scene or menu where it happens (a screenshot helps), and mention that it is the English Boku Doraemon patch.
