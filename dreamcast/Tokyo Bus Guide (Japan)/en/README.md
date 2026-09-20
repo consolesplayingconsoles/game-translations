@@ -8,7 +8,7 @@ English patch for the Dreamcast game *Tokyo Bus Guide* (東京バス案内), For
 
 **Latest release:** [Tokyo Bus Guide (Japan) [T-En by cpc v1.0]](https://github.com/consolesplayingconsoles/game-translations/releases/tag/tokyo-bus-guide-japan-v1.0)
 
-Patch file: `Tokyo Bus Guide (Japan) [T-En by cpc v1.0].dcp`
+Patch file: [`Tokyo Bus Guide (Japan) [T-En by cpc v1.0].dcp`](https://github.com/consolesplayingconsoles/game-translations/releases/download/tokyo-bus-guide-japan-v1.0/Tokyo.Bus.Guide.Japan.T-En.by.cpc.v1.0.dcp)
 
 Releases in this monorepo are namespaced per game, so the tag carries the game name (`tokyo-bus-guide-japan-...`), not just a version.
 
