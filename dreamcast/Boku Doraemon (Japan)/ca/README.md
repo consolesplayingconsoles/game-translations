@@ -16,7 +16,7 @@ Releases in this monorepo are namespaced per game, so the tag carries the game n
 
 Use [Universal Dreamcast Patcher](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases), the standard Dreamcast patching tool. It rebuilds a correct disc image from your own copy of the game, so it works across GDI, CUE+BIN, and CHD dumps.
 
-You will need a GDI image of the original Japanese game with MD5 *58f3df741685a17c74b2187735a3a0dd*
+You will need a GDI image of the original Japanese game with MD5 *dec050e5b1fa3231eb6d89938fd1089b*
 
 1. Download the latest version for your OS.
 2. Open the **Apply Patch** tab.
